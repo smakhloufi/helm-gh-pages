@@ -15,4 +15,4 @@ jobs:
         uses: ./
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          charts_dir: testdata
+          charts_dir: testdata1
